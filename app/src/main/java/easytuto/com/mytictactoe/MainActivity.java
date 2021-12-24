@@ -1,4 +1,4 @@
-package easytuto.com.mytictactoe;
+package tic-tac-toe-game;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
